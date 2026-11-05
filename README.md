@@ -1,4 +1,12 @@
 
+## Live Demo
+
+Try the deployed application here:
+
+**[Credit Card Fraud Detection – Live Application](https://credit-card-fraud-detection-fn84jarsgbykuhjfenb64s.streamlit.app/)**
+
+**GitHub Repository:** [Credit-Card-Fraud-Detection](https://github.com/Ashutoshkumarchoub/Credit-Card-Fraud-Detection)
+
 # Credit Card Fraud Detection System
 
 A machine learning-based application that identifies potentially fraudulent credit card transactions using Random Forest classification and provides interactive predictions through Streamlit.
