@@ -1,0 +1,13 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.6410027304988367,
+    "accuracy": 0.9964730376323285,
+    "precision": 0.5353188239786177,
+    "recall": 0.6536130536130537,
+    "f1_score": 0.5885810243492863,
+    "roc_auc": 0.962415996284639,
+    "pr_auc": 0.6052058419526887,
+    "training_time_seconds": 159.75285625457764,
+    "training_records": 1296675,
+    "testing_records": 555719
+}

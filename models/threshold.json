@@ -1,0 +1,7 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.6410027304988367,
+    "selection_metric": "F1-score",
+    "validation_sample_size": 40000,
+    "random_state": 42
+}

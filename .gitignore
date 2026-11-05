@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Raw and intermediate datasets
+data/
+fraudTrain.csv
+fraudTest.csv
+fraudTrain.csv.zip
+fraudTest.csv.zip
+reports/X_train.csv
+reports/X_test.csv
+reports/y_train.csv
+reports/y_test.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
